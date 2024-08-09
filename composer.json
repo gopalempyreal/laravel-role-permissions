@@ -4,7 +4,10 @@
     "autoload": {
         "psr-4": {
             "Empyrealinfotech\\Permission\\": "src/"
-        }
+        },
+        "files": [
+            "src/Helpers.php"
+        ]
     },
     "authors": [
         {
